@@ -15,7 +15,7 @@ namespace RSDKv4_Palette_Editor
     public partial class Form1 : Form
     {
         //Values for finding palette data from files
-        private const int GAMECONFIG_COLOR_START = 0x67;
+        private const int GAMECONFIG_COLOR_START = 0x73;
         private const int STAGETILES_COLOR_START = 0x18D;
         private const int GC_COLOR_TABLE_LENGTH = 0x120;
         private const int COLOR_TABLE_LENGTH = 0x17E;

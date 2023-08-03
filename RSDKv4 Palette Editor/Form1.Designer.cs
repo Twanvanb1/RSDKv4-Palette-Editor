@@ -506,7 +506,7 @@ namespace RSDKv4_Palette_Editor
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(228, 25);
             this.label1.TabIndex = 98;
-            this.label1.Text = "RSDKv4 Palette Editor";
+            this.label1.Text = "Project virtua Palette Editor";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -516,7 +516,7 @@ namespace RSDKv4_Palette_Editor
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(96, 13);
             this.label2.TabIndex = 99;
-            this.label2.Text = "Created by Splemb";
+            this.label2.Text = "Created by Twanvanb1";
             // 
             // pictureBox17
             // 
@@ -1913,7 +1913,7 @@ namespace RSDKv4_Palette_Editor
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
-            this.Text = "RSDKv4 Palette Editor";
+            this.Text = "Project Virtua Palette Editor";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
